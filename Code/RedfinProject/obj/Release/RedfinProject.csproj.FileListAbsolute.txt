@@ -1,0 +1,10 @@
+C:\Users\paula_000\documents\visual studio 2015\Projects\RedfinProject\RedfinProject\bin\Release\RedfinProject.exe.config
+C:\Users\paula_000\documents\visual studio 2015\Projects\RedfinProject\RedfinProject\bin\Release\RedfinProject.exe
+C:\Users\paula_000\documents\visual studio 2015\Projects\RedfinProject\RedfinProject\bin\Release\RedfinProject.pdb
+C:\Users\paula_000\documents\visual studio 2015\Projects\RedfinProject\RedfinProject\bin\Release\Newtonsoft.Json.dll
+C:\Users\paula_000\documents\visual studio 2015\Projects\RedfinProject\RedfinProject\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\paula_000\documents\visual studio 2015\Projects\RedfinProject\RedfinProject\bin\Release\Newtonsoft.Json.xml
+C:\Users\paula_000\documents\visual studio 2015\Projects\RedfinProject\RedfinProject\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\paula_000\documents\visual studio 2015\Projects\RedfinProject\RedfinProject\obj\Release\RedfinProject.exe
+C:\Users\paula_000\documents\visual studio 2015\Projects\RedfinProject\RedfinProject\obj\Release\RedfinProject.pdb
+C:\Users\paula_000\documents\visual studio 2015\Projects\RedfinProject\RedfinProject\obj\Release\RedfinProject.csprojResolveAssemblyReference.cache
